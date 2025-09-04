@@ -97,10 +97,6 @@ ecommerce-dashboard/
 
 ---
 
-## 📷 Sample Dashboard Screenshot
-
-> *(Add an image here of your actual dashboard for better presentation)*
-
 ---
 
 ## 📜 License
